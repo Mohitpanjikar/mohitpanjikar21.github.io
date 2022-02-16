@@ -1,2 +1,3 @@
-# mohitpanjikar21.github.io
-this is my personal portfolio site containing various things such as projects, LinkedIn profile , github repositories and so on
+
+
+<img src="https://static.wixstatic.com/media/1d678c_856e408ecca9498992a894ce9ab6b1a9~mv2.gif"/>
